@@ -1,7 +1,5 @@
 # US-Sales-Analytics-Dashboard
 
-# US Sales Analytics Dashboard
-
 ## Project Overview
 This Power BI dashboard provides insights into US sales performance through interactive visualizations and KPI tracking.
 
